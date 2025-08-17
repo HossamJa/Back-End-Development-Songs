@@ -47,7 +47,7 @@ Completed in Module 2: Creating Get Songs Service with Flask.
     ![MongoDB Deployment](screenshots/deploy-getsong-1.PNG)
  
     **Topology View**
-    ![Topology View](screenshots/deploy-getsong-2.PNG)
+    ![Topology View](https://github.com/HossamJa/Back-end-Development-Capstone/blob/main/screenshots/Songs-Microservice-and-MongoDb-in-OpenShift.PNG)
  
     **OC New-App Output**
     ![OC New-App Output](screenshots/deploy-getsong-3.PNG)
