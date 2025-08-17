@@ -31,18 +31,18 @@ Completed in Module 2: Creating Get Songs Service with Flask.
 
   **Health Endpoint Curl**
   - ![Health Endpoint Curl](screenshots/songs-ex1-health-curl.PNG)
-  - 
+
   **GET Song Curl**
   - ![GET Song Curl](screenshots/songs-ex2-get-song-curl.PNG)
- 
+
   **PUT Song Curl**
   - ![PUT Song Curl](screenshots/songs-ex5-put-song-passing.PNG)
 
   **DELETE Song Cur**
   - ![DELETE Song Curl](screenshots/songs-ex6-delete-song-passing.PNG)
 
-  - ### Deployment screenshots from Module 4:
- 
+  ### Deployment screenshots from Module 4:
+
     **MongoDB Deploymen**
     ![MongoDB Deployment](screenshots/deploy-getsong-1.PNG)
  
